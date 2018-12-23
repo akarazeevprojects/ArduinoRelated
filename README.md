@@ -2,24 +2,6 @@
 
 <table>
   <tr>
-    <th>
-    empty
-    </th>
-
-    <th>
-      Projects
-    </th>
-
-    <th>
-    empty
-    </th>
-
-    <th>
-    empty
-    </th>
-  </tr>
-
-  <tr>
     <td>
       📡🕹🚨 Controlling Servo motor and LEDs with Arduino Nano using Joystick [[video demonstration](https://youtu.be/dMZIztaue5U)] [[source files](servo_leds/)]
       [![](https://img.youtube.com/vi/dMZIztaue5U/0.jpg)](https://youtu.be/dMZIztaue5U)
