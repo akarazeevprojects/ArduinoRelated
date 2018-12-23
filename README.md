@@ -3,6 +3,7 @@
 <table>
   <tr>
     <th>
+    empty
     </th>
 
     <th>
@@ -10,9 +11,11 @@
     </th>
 
     <th>
+    empty
     </th>
 
     <th>
+    empty
     </th>
   </tr>
 
