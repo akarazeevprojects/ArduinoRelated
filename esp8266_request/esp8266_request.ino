@@ -2,8 +2,8 @@
 #include <ESP8266HTTPClient.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "InScienceWeTrust";
-const char* password = "kogdabudetborsch";
+const char* ssid = "<YOUR_SSID>";
+const char* password = "<YOUR_PASSWORD>";
 
 HTTPClient http;
 

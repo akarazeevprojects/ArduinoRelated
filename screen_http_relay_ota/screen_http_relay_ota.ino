@@ -25,8 +25,8 @@ size 4: 24x32
 #include <ESP8266HTTPUpdateServer.h>
 
 const char* host = "esp8266-webupdate";
-const char* ssid = "InScienceWeTrust";
-const char* password = "kogdabudetborsch";
+const char* ssid = "<YOUR_SSID>";
+const char* password = "<YOUR_PASSWORD>";
 
 ESP8266WebServer httpServer(80);
 WiFiServer server(81);

@@ -21,8 +21,8 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 #include <ESP8266HTTPUpdateServer.h>
 
 const char* host = "esp8266-webupdate";
-const char* ssid = "InScienceWeTrust";
-const char* password = "kogdabudetborsch";
+const char* ssid = "<YOUR_SSID>";
+const char* password = "<YOUR_PASSWORD>";
 
 ESP8266WebServer httpServer(80);
 ESP8266HTTPUpdateServer httpUpdater;

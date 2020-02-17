@@ -10,8 +10,8 @@ ON: http://192.168.0.111:51828/?accessoryId=switch1&state=true
 #include <ESP8266HTTPClient.h>
 #include <ESP8266WiFi.h>
  
-const char* ssid = "InScienceWeTrust";
-const char* password = "kogdabudetborsch";
+const char* ssid = "<YOUR_SSID>";
+const char* password = "<YOUR_PASSWORD>";
 String payload = "NONE";
 
 HTTPClient http;
